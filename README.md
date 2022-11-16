@@ -50,7 +50,7 @@ A few dates are excluded from the data.
 [5] “Time Series Forecast Error Metrics you should know.” [Online]. Available: https://towardsdatascience.com/time-series-forecast-error-metrics-you-should-know-cc88b8c67f27. [Accessed: 09-Nov-2022]. 
 
 ### Acknowledgements
-We would like to acknowledge Professor Alonsi and Harsh for helping us throughout our project. 
+We would like to acknowledge Professor Alonzi and Harsh for helping us throughout our project. 
 
 ### MI1 Assignment
 [Milestone 1](https://docs.google.com/document/d/1I1iGIr0NDgdUJvNL1CdqgkITHBegzS7AKfov62luD8E/edit?usp=sharing)
