@@ -2,7 +2,7 @@
 
 ### Installing/Building Code
 
-
+The code is in the Jupyter Notebook (.ipynb file format). It can be run locally using software such as Jupyter Labs or VSCode, or in the cloud using a service such as Google Colab.
 
 ### Usage of Code
 
@@ -32,10 +32,10 @@ A few dates are excluded from the data.
 ## FIGURES
 | Figure | Takeaways |
 | -------- | ----------- |
-|  |  |
-|  |  |
-|  |  |
-
+| LR_canada_temps.png | In our linear regression, temperatures went up and down over the years, which we would guess with seasons |
+| RF_forecasted_temps.png | The random forest model tends to show predictions lower than actual temperatures before the prediction years |
+| RF_predicted_temps.png | Our random forest predictions were fairly close to the actual temperatures |
+| model_prediction.png | Our SARIMA model tended to do a fairly good job at predicting temperatures |
 
 
 ## REFERENCES
