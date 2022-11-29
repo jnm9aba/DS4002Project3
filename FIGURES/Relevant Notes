@@ -1,3 +1,4 @@
 LR_canada_temps - The results of the linear regression model shown with our test set of years 2010-2019, where the x-axis is time, the y-axis is temperature, and the orange line is our predicted linear model
 RF_forecasted_temps - The results of the random forest model shown with our train set of years 1960-2009, where the x-axis is time, the y-axis is temperature, and the orange graph is our predicted temperatures per month
 RF_predicted_temps - The results of the random forest model shown with our test set of years 2010-2019, where the x-axis is time, the y-axis is temperature, and the orange graph is our predicted temperatures per month
+model_prediction - The results of the SARIMA model predictions of temperatures versus the actual temperatures from 2010-2019
