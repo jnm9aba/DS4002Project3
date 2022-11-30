@@ -6,7 +6,7 @@ The code is in the Jupyter Notebook (.ipynb file format). It can be run locally 
 
 ### Usage of Code
 
-
+The Canada_Temperature_Models.ipynb file is used for our machine learning models of prediction and the Final.ipynb is used for our SARIMA model of prediction.
 
 ## DATA
 
